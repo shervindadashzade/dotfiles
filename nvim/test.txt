@@ -1,0 +1,4 @@
+Remember how I said Space mode is a LazyVim concept? Insert mode is an original Vi concept,
+that the successors Vim, then Neovim, and now LazyVim have all inherited. In Insert mode,
+the vast majority of keystrokes do what you would expect in any editor: they insert text. So you can touch type as usual.
+
