@@ -1,4 +1,5 @@
 return {
+  { "rose-pine/neovim" },
   { "nyoom-engineering/oxocarbon.nvim" },
   { "rebelot/kanagawa.nvim" },
   {
