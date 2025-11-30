@@ -1,0 +1,5 @@
+configuration {
+    show-icons: true;
+}
+
+@theme "/home/shervin/.local/share/rofi/themes/launchpad.rasi"
