@@ -2,4 +2,6 @@ configuration {
     show-icons: true;
 }
 
-@theme "/home/shervin/.local/share/rofi/themes/launchpad.rasi"
+//@theme "/home/shervin/.local/share/rofi/themes/launchpad.rasi"
+
+@theme "/home/shervin/.local/share/rofi/themes/rounded-purple-dark.rasi"
